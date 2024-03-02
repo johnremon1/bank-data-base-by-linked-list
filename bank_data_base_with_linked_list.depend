@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1709398929 source:d:\embede systems course\codes\my c codes\bank_data_base_with_linked_list\main.c
+	"functions.h"
+
+1709385451 d:\embede systems course\codes\my c codes\bank_data_base_with_linked_list\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709398929 source:d:\embede systems course\codes\my c codes\bank_data_base_with_linked_list\the_bakcground_functions.c
+	"functions.h"
+
+1709385614 source:d:\embede systems course\codes\my c codes\bank_data_base_with_linked_list\the_main_functions.c
+	"functions.h"
+
+1709398929 source:d:\github\bank data base using linked list\main.c
+	"functions.h"
+
+1709400465 d:\github\bank data base using linked list\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709398929 source:d:\github\bank data base using linked list\the_bakcground_functions.c
+	"functions.h"
+
+1709399397 source:d:\github\bank data base using linked list\the_main_functions.c
+	"functions.h"
+
